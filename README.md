@@ -1,2 +1,2 @@
 # DS_Studies
-Repo for my recent notebooks and learnings on studying Data Science and Machine Learning
+Repo for recent notebooks and learnings from studying Data Science, Machine Learning and Data Engineering after concluding the Data Science certification program from Digital House.
